@@ -40,9 +40,18 @@
 
 ![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/7.png)
 
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/7-1.png)
+
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/7-2.png)
+
 ![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/8.png)
 
 ![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/9.png)
 
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/10.png)
 
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/10-1.png)
 
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/10-2.png)
+
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/10-3.png)
