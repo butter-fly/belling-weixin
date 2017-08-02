@@ -26,7 +26,7 @@
 
 5、演示配图
 
-![image](https://github.com/butter-fly/belling-weixin/blob/maste/peitu/1.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/1.png)
 
 ![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/2.png)
 
