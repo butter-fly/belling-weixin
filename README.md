@@ -26,23 +26,23 @@
 
 5、演示配图
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/1.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/maste/peitu/1.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/2.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/2.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/3.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/3.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/4.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/4.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/5.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/5.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/6.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/6.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/7.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/7.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/8.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/8.png)
 
-![image](https://github.com/butter-fly/belling-admin/blob/master/src/main/webapp/peitu/9.png)
+![image](https://github.com/butter-fly/belling-weixin/blob/master/peitu/9.png)
 
 
 
