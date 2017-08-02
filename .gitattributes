@@ -2,3 +2,4 @@
 *.jsp linguist-language=Java
 *.html linguist-language=Java
 *.java linguist-language=Java
+*.xml linguist-language=Java
